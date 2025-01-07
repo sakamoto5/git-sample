@@ -12,5 +12,6 @@ int main(){
     cout<< "addの２回目\n";
     cout<< "addの３回目\n";
     cout<< "addの４回目\n";
+    cout<< "gitingnoreの設定\n";
     return 0;
 }
