@@ -1,9 +1,10 @@
 #include<iostream>
 #include<string>
+using namespace std;
 
 int main(){
-  int a;
-  cout << "hello world\n";
-  cin >> a;
-  return 0;
+    int a;
+    cout << "hello world\n";
+    cin >> a;
+    return 0;
 }
